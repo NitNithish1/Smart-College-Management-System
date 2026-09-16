@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Management System",
+  "description": "AI-Powered Smart College Management System with Flutter mobile UI, Spring Boot REST API, MySQL Database, QR Identification, and Gemini AI Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
